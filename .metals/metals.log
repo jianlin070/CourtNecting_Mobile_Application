@@ -1,0 +1,22 @@
+2023.10.31 05:30:23 INFO  Started: Metals version 1.1.0 in folders '/Users/jianlin070/CourtNecting_Mobile_Application, /Users/jianlin070/CourtNecting_Web_Server, /Users/jianlin070/CourtNecting_Web_Application' for client Visual Studio Code 1.83.1.
+2023.10.31 05:30:24 WARN  Build server is not auto-connectable.
+2023.10.31 05:30:24 WARN  no build tool detected in workspace '/Users/jianlin070/CourtNecting_Mobile_Application'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Oct 31, 2023 5:30:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 31, 2023 5:33:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 31, 2023 5:34:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 31, 2023 5:34:24 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 31, 2023 5:34:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 31, 2023 5:34:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 31, 2023 5:43:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 31, 2023 5:44:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.10.31 06:21:08 INFO  Shutting down server
+2023.10.31 06:21:08 INFO  shutting down Metals
+2023.10.31 06:21:08 INFO  Exiting server
