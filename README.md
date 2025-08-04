@@ -40,3 +40,5 @@ This mobile app works in tandem with a full system:
 | Database         | MongoDB (via Mongoose)     |
 | Web Server       | NGINX                      |
 | IoT Controller   | Raspberry Pi Pico (C++ / MicroPython) |
+
+<img width="815" height="995" alt="image" src="https://github.com/user-attachments/assets/a778f3db-d79f-40f4-b018-bd977aee6058" />
