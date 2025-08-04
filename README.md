@@ -12,11 +12,9 @@ This mobile app works in tandem with a full system:
 
 | Component            | GitHub Repository |
 |----------------------|------------------|
-| 📱 Mobile App        | [github.com/yourusername/courtnecting-mobile](https://github.com/yourusername/courtnecting-mobile) |
-| 🖥️ Web Admin Panel   | [github.com/yourusername/courtnecting-web](https://github.com/yourusername/courtnecting-web) |
-| 📟 IoT Controller    | [github.com/yourusername/courtnecting-iot](https://github.com/yourusername/courtnecting-iot) |
-
-> Replace the above URLs with actual links to your GitHub repositories.
+| ⚙️ CourtNecting Web Server     | https://github.com/jianlin070/CourtNecting_Web_Server|
+| 🖥️ CourtNecting Web Application  | https://github.com/jianlin070/CourtNecting_Web_Application |
+| 📟 CourtNecting Badminton Court Prototype    | https://github.com/jianlin070/CourtNecting_Prototype |
 
 ---
 
@@ -40,18 +38,3 @@ This mobile app works in tandem with a full system:
 | Database         | MongoDB (via Mongoose)     |
 | Web Server       | NGINX                      |
 | IoT Controller   | Raspberry Pi Pico (C++ / MicroPython) |
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🙋‍♂️ Author
-
-**Lim Jian Lin**  
-📍 Malaysia  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🐙 [GitHub](https://github.com/yourusername)
